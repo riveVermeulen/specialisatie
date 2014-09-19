@@ -6,3 +6,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **naam** - [**specialisatie keuze**](http://link-to-repository)
 
 ## Lijst
+- **Sven Wittevrongel** - [**Node.js**](https://github.com/CupOfTea696/Node.Specialisatie)
