@@ -3,7 +3,7 @@
 Voeg je eigen informatie toe via een [pull request](https://help.github.com/articles/using-pull-requests).
 
 ## Voorbeeld
-- **naam** - [**specialisatie keuze**](http://link-to-repository)
+- **Ksenia Karelskaya** - [**SVG animations**](https://github.com/eZ0/SVG_animations)
 
 ## Lijst
 - **Sven Wittevrongel** - [**Node.js**](https://github.com/CupOfTea696/Node.Specialisatie)
