@@ -8,3 +8,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 ## Lijst
 - **Sven Wittevrongel** - [**Node.js**](https://github.com/CupOfTea696/Node.Specialisatie)
 - **Thomas Claessens** - [**Laravel**](https://github.com/DeClaessens/Laravel_WebSpecialisatie)
+- **Laurens Wuyts** - [**Node.js en MongoDB**](https://github.com/laurenswuyts/webspecialisatie)
