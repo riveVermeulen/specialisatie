@@ -10,3 +10,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Jonas Van der Sande** - [**CSS3 en HTML5 animatie's**](https://github.com/maxjonas13/webSpecialisatie)
 - **Joren Van Hocht** - [**Wordpress**](https://github.com/jorenvh/webspecialisatie)
 - **Maarten Marreel** - [**Drupal**](https://github.com/MrMM1989/webspecialisatie)
+- **William Blommaert** - [**D3.js**](https://github.com/Will0489/data-visualisation)
