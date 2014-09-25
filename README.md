@@ -9,3 +9,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Ksenia Karelskaya** - [**SVG animations**](https://github.com/eZ0/SVG_animations)
 - **Jonas Van der Sande** - [**CSS3 en HTML5 animatie's**](https://github.com/maxjonas13/webSpecialisatie)
 - **Joren Van Hocht** - [**Wordpress**](https://github.com/jorenvh/webspecialisatie)
+- **Maarten Marreel** - [**Drupal**](https://github.com/MrMM1989/webspecialisatie)
