@@ -11,3 +11,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Joren Van Hocht** - [**Wordpress**](https://github.com/jorenvh/webspecialisatie)
 - **Maarten Marreel** - [**Drupal**](https://github.com/MrMM1989/webspecialisatie)
 - **William Blommaert** - [**D3.js**](https://github.com/Will0489/data-visualisation)
+- **Matthias Verhoeven** - [**CSS & Javascript animations**](https://github.com/Maveee/specialisatie)
