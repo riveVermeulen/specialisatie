@@ -15,4 +15,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Jasper Baetens** - [**css animatie**](https://github.com/JasperBaetens/css-Animatie)
 - **Marinus Eekman** - [**API Instagram**](https://github.com/forenzer/specialisatie)
 - **Matthias De Winter** [**Responsive Typography**](https://github.com/MatthiasDeWinter/ResponsiveTypography)
-- **Nane Boudewijns** [**Drupal**](https://github.com/NaneB/specialisatieDrupal)
+- **Nane Boudewijns** - [**Drupal**](https://github.com/NaneB/specialisatieDrupal)
