@@ -17,3 +17,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Matthias De Winter** [**Responsive Typography**](https://github.com/MatthiasDeWinter/ResponsiveTypography)
 - **Ferre Lambert** - [**Drupal**](https://github.com/Ferrrrrre/SpecialisatieDrupal)
 - **Wouter Jansen** [**Angular JS**](https://github.com/Mr1048576/specialisatie)
+- **Nane Boudewijns** - [**Drupal**](https://github.com/NaneB/specialisatieDrupal)
