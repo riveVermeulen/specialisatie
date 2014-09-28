@@ -18,3 +18,4 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Ferre Lambert** - [**Drupal**](https://github.com/Ferrrrrre/SpecialisatieDrupal)
 - **Wouter Jansen** [**Angular JS**](https://github.com/Mr1048576/specialisatie)
 - **Nane Boudewijns** - [**Drupal**](https://github.com/NaneB/specialisatieDrupal)
+- **Verena Vertonghen** [**Sass**](https://github.com/VerenaVertonghen/Sass_WebSpecialisatie)
