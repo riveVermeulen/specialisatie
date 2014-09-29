@@ -20,3 +20,5 @@ Voeg je eigen informatie toe via een [pull request](https://help.github.com/arti
 - **Nane Boudewijns** - [**Drupal**](https://github.com/NaneB/specialisatieDrupal)
 - **Verena Vertonghen** [**Sass**](https://github.com/VerenaVertonghen/Sass_WebSpecialisatie)
 - **Matthias Verhoeven** - [**CSS & Javascript animations**](https://github.com/Maveee/specialisatie)
+- **Rive Vermeulen** - [**Swift**](https://github.com/riveVermeulen/Swift)
+
